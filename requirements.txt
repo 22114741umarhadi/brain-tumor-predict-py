@@ -10,3 +10,4 @@ flask_cors
 opencv-python
 tensorflow
 Pillow
+libgl1 
