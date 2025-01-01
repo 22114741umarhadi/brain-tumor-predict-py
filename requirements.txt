@@ -9,3 +9,4 @@ gunicorn
 flask_cors
 opencv-python
 tensorflow
+Pillow
