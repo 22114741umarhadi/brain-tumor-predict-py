@@ -7,7 +7,6 @@ scikit-learn
 python-dotenv==1.0.0
 gunicorn
 flask_cors
-opencv-python
+opencv-python-headless
 tensorflow
 Pillow
-libgl1 
